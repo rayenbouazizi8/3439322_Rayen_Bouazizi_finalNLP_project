@@ -8,7 +8,7 @@ IMDb Movie Reviews dataset.
 predictive performance and computational efficiency compared to BERT-base?
 
 ## Author
-[Your full name] — [Your university ID]
+Rayen Bouazizi — 3439322
 
 ## Environment
 - Google Colab (GPU runtime, T4)
