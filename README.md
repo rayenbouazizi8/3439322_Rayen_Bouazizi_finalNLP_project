@@ -57,7 +57,7 @@ the notebook fetches it automatically.
 | BERT-base | 92.22% | 92.22% | 52.8 min | 13.72ms |
 
 Full results, comparison charts, and error analysis are in the notebook
-and accompanying report (`[filename].pdf`).
+and accompanying report (`[3439322_Bouazizi_Rayen_final_project].pdf`).
 
 ## AI usage
 See the Declaration of AI Usage section in the report PDF.
